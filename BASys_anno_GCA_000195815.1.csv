@@ -1,0 +1,34 @@
+index,Start,End,Strand,Accession,Gene,COG,Protein
+1,61,3138,+,BASYS00001,-,-,Coagulation Factor 5/8 Type Domain-Containing Protein
+2,4169,3030,-,BASYS00002,-,COG1835,Acyltransferase
+3,4176,5276,+,BASYS00003,-,-,Hypothetical Protein Cauri
+4,5267,6679,+,BASYS00004,-,-,Integral Membrane Protein
+5,7716,6562,-,BASYS00005,pimB [H],COG0438,GDP-mannose-dependent alpha-(1-6)-phosphatidylinositol monomannoside mannosyltransferase [H]
+6,7758,8492,+,BASYS00006,ubiE [C],COG0500,Uncharacterized methyltransferase Mflv_0427 [H]
+7,10460,8517,-,BASYS00007,pckG [H],COG1274,Phosphoenolpyruvate carboxykinase [GTP] [H]
+8,10812,11591,+,BASYS00008,trmB,COG0220,tRNA (guanine-N(7)-)-methyltransferase
+9,11576,12208,+,BASYS00009,-,-,Hypothetical
+10,12223,14463,+,BASYS00010,mmpL3 [H],COG2409,Putative membrane protein mmpL3 [H]
+11,15103,15002,-,BASYS00011,-,-,Hypothetical Protein BASYS00011
+12,14450,15508,+,BASYS00012,-,COG0392,Transmembrane Protein
+13,16160,16059,-,BASYS00013,-,-,Hypothetical Protein BASYS00013
+14,16147,16251,+,BASYS00014,-,-,Hypothetical Protein BASYS00014
+15,16296,16153,-,BASYS00015,-,-,Hypothetical Protein BASYS00015
+16,17827,16859,-,BASYS00016,-,-,Cell Wall Surface Anchor Family Protein
+17,19989,18439,-,BASYS00017,pccB [H],-,Propionyl-CoA carboxylase beta chain [H]
+18,24761,20001,-,BASYS00018,ppsA [H],COG3321,Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsA [H]
+19,26674,24860,-,BASYS00019,fadD32 [H],COG0318,Long-chain-fatty-acid--AMP ligase FadD32 [H]
+20,26737,27669,+,BASYS00020,-,-,Hypothetical Protein BASYS00020
+21,27660,26749,-,BASYS00021,-,-,Cutinase
+22,28181,27666,-,BASYS00022,-,-,Hypothetical Protein DIP
+23,30205,28181,-,BASYS00023,csp1 [H],COG0627,Protein PS1 [H]
+24,31486,30458,-,BASYS00024,csp1 [H],COG0627,Protein PS1 [H]
+25,33329,31641,-,BASYS00025,-,-,Transmembrane Protein
+26,34315,33338,-,BASYS00026,-,COG0382,Uncharacterized protein y4nM [H]
+27,34806,34312,-,BASYS00027,-,COG0671,Membrane-Associated Phospholipid Phosphatase
+28,36791,34806,-,BASYS00028,glfT2 [H],-,UDP-galactofuranosyl transferase GlfT2 [H]
+29,37391,36876,-,BASYS00029,ybjG [C],COG0671,PAP2 Superfamily Protein
+30,39009,37432,-,BASYS00030,gbsA [H],COG1012,Betaine aldehyde dehydrogenase [H]
+31,41301,39076,-,BASYS00031,betT [H],COG1292,High-affinity choline transport protein [H]
+32,41438,43366,+,BASYS00032,betA [H],COG2303,Choline dehydrogenase [H]
+33,44742,43552,-,BASYS00033,rfbD [H],COG0562,Probable UDP-galactopyranose mutase [H]
