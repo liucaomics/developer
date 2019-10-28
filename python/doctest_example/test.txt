@@ -1,0 +1,3 @@
+>>> from doctest_example import factorial
+>>> factorial(6)
+720
